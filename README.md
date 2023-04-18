@@ -1,5 +1,6 @@
 #  A Simple_Shell Project for the ALX Software Engineering School
-<br>
+
+This is for educational purposes. Use at your risk!!!
 
 ## **Features**
 
