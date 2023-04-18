@@ -1,7 +1,7 @@
-A Simple_Shell Project For the ALX Software Engineering School
-
-
-Features:
+# **A Simple_Shell Project For the ALX Software Engineering School
+**
+<br>
+### Features:
 Basic commands: exit, pwd, clear, cd, 
 Environment management with setenv and unsetenv
 Program invocation with forking and child processes
