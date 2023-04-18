@@ -1,7 +1,7 @@
 #  A Simple_Shell Project for the ALX Software Engineering School
 <br>
-## **Features**
 
+## **Features**
 
 <br>
 <li>Basic commands: exit, pwd, clear, cd, 
