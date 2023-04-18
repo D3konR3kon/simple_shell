@@ -1,4 +1,4 @@
-##  A Simple_Shell Project for the ALX Software Engineering School
+#  A Simple_Shell Project for the ALX Software Engineering School
 <br>
 ## **Features**
 
