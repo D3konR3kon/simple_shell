@@ -43,7 +43,6 @@ char *_getenv(const char *name, char **_environ)
 	/* environ is declared in the header file */
 	for (i = 0; _environ[i]; i++)
 	{
-		
 		mov = cmp_env_name(_environ[i], name);
 		if (mov)
 		{
